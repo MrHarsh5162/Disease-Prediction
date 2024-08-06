@@ -74,4 +74,10 @@ Feel free to customize the web application's appearance, add more disease predic
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
 
+#TECH USED:
+
+![NumPy Logo](https://numpy.org/images/logo.svg)
+![pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.svg)
+![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+
 
