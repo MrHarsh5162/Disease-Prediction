@@ -1,6 +1,6 @@
 # Multiple Disease Prediction System using Machine Learning
 
-![mdps - github1](https://github.com/shaadclt/Multiple-Disease-Prediction-System/assets/98437584/fdabe788-d49c-4996-8ee4-b1e0e37f09dc)
+![mdps - github1](https://github.com/MrHarsh5162/Disease-Prediction/blob/main/Screenshot%202024-08-07%20020822.png)
 
 
 This project provides a streamlit web application for predicting multiple diseases, including diabetes, Parkinson's disease, and heart disease, using machine learning algorithms. The prediction models are deployed using Streamlit, a Python library for building interactive web applications.
