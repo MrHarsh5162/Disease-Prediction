@@ -80,7 +80,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ![pandas Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s)
 
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+![Python Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-does-the-Python-logo-stand-for&psig=AOvVaw1lC4AUlZJlyrwHsNGUim1o&ust=1723063568593000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDPspGe4YcDFQAAAAAdAAAAABAE)
 
 
 
