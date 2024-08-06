@@ -76,8 +76,8 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 #TECH USED:
 
-![NumPy Logo](https://numpy.org/images/logo.svg)
-![pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.svg)
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+[NumPy Logo](https://numpy.org/images/logo.svg)
+[pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.svg)
+[Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 
 
