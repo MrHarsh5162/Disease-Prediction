@@ -78,7 +78,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 ![NumPy Logo](https://numpy.org/images/logo.svg)
 
-![pandas Logo](https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.svg)
+![pandas Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s)
 
 ![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
 
